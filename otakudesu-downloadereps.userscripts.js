@@ -1,15 +1,17 @@
 // ==UserScript==
 // @name         OtakudesuDownloaderEPS
 // @namespace    X-Ozan/OtakudesuDownloaderEPS
-// @version      2.0.0
+// @version      3.0.0
 // @description  AutoDownloaderPerEPS
 // @author       X-Ozan
-// @grant        GM_addStyle
+// @updateURL    https://raw.githubusercontent.com/X-Ozan/OtakudesuDownloaderEPS/main/otakudesu-downloadereps.userscripts.js
+// @downloadURL  https://raw.githubusercontent.com/X-Ozan/OtakudesuDownloaderEPS/main/otakudesu-downloadereps.userscripts.js
 // @match        *://*.otakudesu.bid/episode/*
 // @match        *://*.mega.nz/file/*
 // @run-at       document-end
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.2/jquery.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js
+// @grant        GM_addStyle
 // @grant        GM_openInTab
 // @grant        GM_setValue
 // @grant        GM_getValue
